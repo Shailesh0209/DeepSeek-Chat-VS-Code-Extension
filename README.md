@@ -1,0 +1,1 @@
+# DeepSeek-Chat-VS-Code-Extension
