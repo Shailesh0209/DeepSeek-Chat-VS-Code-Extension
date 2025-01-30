@@ -4,6 +4,9 @@ Here's a well-structured `README.md` file for your VS Code extension. It include
 
 ### 📄 **README.md - DeepSeek Chat VS Code Extension**
 
+![DeepSeek Chat UI](deepseek-chat.png)
+
+
 ```markdown
 # DeepSeek Chat - VS Code Extension
 
